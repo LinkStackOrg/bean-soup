@@ -20,6 +20,8 @@ return [
 
     'open_links_in_same_tab' => 'false',
 
+    // Hides verification badge. Useful for situations where it conflicts with the theme's design.
+    'disable_verification_badge' => 'true',
 
     /*
     |--------------------------------------------------------------------------
