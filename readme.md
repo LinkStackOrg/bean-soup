@@ -1,4 +1,4 @@
-# A LittleLink Custom Theme
+# LinkStack Theme
 Find more themes: https://linkstack.org/themes/
                                                                                                                                                                          
 *	Theme Name: Bean Soup
