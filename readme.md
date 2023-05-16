@@ -2,7 +2,7 @@
 Find more themes: https://linkstack.org/themes/
                                                                                                                                                                          
 *	Theme Name: Bean Soup
-*	Theme Version: 1.4
+*	Theme Version: 1.5
 *	Theme Date: 2022-05-19
 *	Theme Author: JulianPrieber
 *	Theme Author URI: https://github.com/JulianPrieber
